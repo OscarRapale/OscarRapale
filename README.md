@@ -15,8 +15,7 @@
 ![Views](https://komarev.com/ghpvc/?username=OscarRapale&style=for-the-badge)
 </div>
 
-<div align="center">
-<h2 align="center" class="section-heading">💻 Programming Languages and Tools</h2>
+### 💻 Programming Languages and Tools
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +29,7 @@
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-</div>
+
 
 <div align="center">
 <h2 align="center" class="section-heading">🔧 Frameworks and Libraries</h2>
