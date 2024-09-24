@@ -11,8 +11,6 @@
 - 📫 How to reach me(Feel free to reach out for collaborations or opportunities): [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://mylinkedInlink/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarrapale@gmail.com)
 - 🌐 My Resume: [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./.pdf)
 
-![Views](https://komarev.com/ghpvc/?username=OscarRapale&style=for-the-badge)
-
 ### 💻 Programming Languages and Tools:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
