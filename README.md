@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi, I’m Oscar Rapale Mendez.
-- 🚀 About Me, I'm a Software Engineer soon to graduate from Holberton Coding School PR, specialized in Fullstack development, but in the future would like to focus on Front-end development.
+- 🚀 About Me: I'm a Software Engineer soon to graduate from Holberton Coding School PR, specialized in Fullstack development, but in the future would like to focus on Front-end development.
 - 👀 I’m interested in App Development, Web Development, specialized in Front-end Development.
 - 🌱 I’m currently learning TypeScript, React, NodeJS, Django.
 - 💞️ I’m looking to collaborate on Web apps.
