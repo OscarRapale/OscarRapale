@@ -11,11 +11,9 @@
 - 📫 How to reach me(Feel free to reach out for collaborations or opportunities): [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://mylinkedInlink/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarrapale@gmail.com)
 - 🌐 My Resume: [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./.pdf)
 
-<div>
 ![Views](https://komarev.com/ghpvc/?username=OscarRapale&style=for-the-badge)
-</div>
 
-<h2 align="center" class="section-heading">💻 Programming Languages and Tools</h2>
+###💻 Programming Languages and Tools
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,9 +28,7 @@
  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-
-<h2 align="center" class="section-heading">🔧 Frameworks and Libraries</h2>
+###🔧 Frameworks and Libraries
  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
