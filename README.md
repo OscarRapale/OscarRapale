@@ -7,7 +7,7 @@
 - 👀 I’m interested in App Development, Web Development, specialized in Front-end Development.
 - 🌱 I’m currently learning TypeScript, React, NodeJS, Django.
 - 💞️ I’m looking to collaborate on Web apps.
-- ⚡ Fun fact: My hobby is Game development.
+- ⚡ Fun fact: My hobby is learning about Game development, and working on side projects for practicing and keep learning new skills.
 - 📫 How to reach me(Feel free to reach out for collaborations or opportunities): [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://mylinkedInlink/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarrapale@gmail.com)
 - 🌐 My Resume: [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./.pdf)
 
