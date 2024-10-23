@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Web apps.
 - ⚡ Fun fact: My hobby is learning about Game development, and working on side projects for practicing and keep learning new skills.
 - 📫 How to reach me(Feel free to reach out for collaborations or opportunities): [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rapale/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarrapale@gmail.com)
-- 🌐 My Resume: [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Oscar Rapale Resume-1.pdf)
+- 🌐 My Resume: [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Oscar_Rapale_Resume.pdf)
 
 ### 💻 Programming Languages and Tools:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
