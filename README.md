@@ -2,7 +2,7 @@
 <h2><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=a483f6&center=true&vCenter=true&width=435&lines=Hey,+I'm+Oscar!;Welcome...;to+my+Github!;" alt="Typing SVG"/></h2>
 </div>
 
-- 👋 Hi, I’m Oscar Rapale Mendez.
+- 👋 Hi, I’m Oscar Rapale Méndez.
 - 🚀 About Me: I'm a Software Engineer graduated from Holberton Coding School PR, specialized in Fullstack development, but in the future would like to focus on Front-end development.
 - 👀 I’m interested in App Development, Web Development, specialized in Front-end Development.
 - 🌱 I’m currently learning TypeScript, React, React Native, C#.
